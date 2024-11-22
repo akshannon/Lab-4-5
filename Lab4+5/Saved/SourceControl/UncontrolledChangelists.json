@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/tgabel25/Documents/lab4/Lab-4-5/Lab4+5/Content/VRTemplate/Blueprints/Pistol.uasset",
+				"C:/Users/tgabel25/Documents/lab4/Lab-4-5/Lab4+5/Content/VRTemplate/Input/IMC_Weapon_Right.uasset",
+				"C:/Users/tgabel25/Documents/lab4/Lab-4-5/Lab4+5/Content/MyLevel.umap",
+				"C:/Users/tgabel25/Documents/lab4/Lab-4-5/Lab4+5/Content/IM_Reload_R.uasset",
 				"C:/Users/ashanno/Documents/Unreal Projects/Lab3/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/ashanno/Documents/Unreal Projects/Lab3/Content/MyBlueprints/MyGrabbable.uasset",
 				"C:/Users/ashanno/Documents/Unreal Projects/Lab3/Content/VRTemplate/Maps/VRTemplateMap.umap",
